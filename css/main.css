@@ -40,7 +40,7 @@ article header p {
   padding-bottom: 1em;
 }
 
-p {
+article p {
   font-size: 0.9em;
 }
 
@@ -56,7 +56,7 @@ blockquote {
   margin-right: 0;
 }
 
-ol {
+article ol {
   padding-left: 1em;
 }
 
